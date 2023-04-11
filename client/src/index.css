@@ -1,0 +1,17 @@
+/* --------------- BROWSER RESET --------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+body {
+  height: 100%;
+  background-color: #fff;
+}
+
+.App {
+  min-height: calc(100vh - 28px);
+}
